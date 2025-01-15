@@ -23,4 +23,7 @@
     height: auto;
     width: 100%;
   }
+  nav {
+    display: none;
+  }
 }
