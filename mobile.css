@@ -1,0 +1,26 @@
+@media screen and (max-width: 767px) {
+  .find_btn {
+    margin-right: 0;
+    width: 30%;
+  }
+  .item {
+    flex-direction: column;
+  }
+  .hero-section {
+    flex-direction: column;
+  }
+  .hero-text {
+    top: 0;
+    left: 50px;
+  }
+  .hero-image img {
+    width: 80%;
+    height: auto;
+  }
+  .hero-image {
+    margin-right: 0;
+    text-align: center;
+    height: auto;
+    width: 100%;
+  }
+}
